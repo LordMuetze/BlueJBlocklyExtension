@@ -1,0 +1,3 @@
+[submodule "Blockly"]
+	path = Blockly
+	url = https://github.com/LordMuetze/Blockly.git
