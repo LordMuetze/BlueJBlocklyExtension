@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CustomCompileListener
+comment1.params=compileEvent
+comment1.target=void\ compileStarted(bluej.extensions2.event.CompileEvent)
+comment2.params=compileEvent
+comment2.target=void\ compileError(bluej.extensions2.event.CompileEvent)
+comment3.params=compileEvent
+comment3.target=void\ compileWarning(bluej.extensions2.event.CompileEvent)
+comment4.params=compileEvent
+comment4.target=void\ compileSucceeded(bluej.extensions2.event.CompileEvent)
+comment5.params=compileEvent
+comment5.target=void\ compileFailed(bluej.extensions2.event.CompileEvent)
+numComments=6

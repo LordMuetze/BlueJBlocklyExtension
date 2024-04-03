@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BlocklyBrowser
+comment1.params=
+comment1.target=javafx.scene.web.WebEngine\ getWebEngine()
+comment2.params=
+comment2.target=BlocklyBrowser()
+comment3.params=
+comment3.target=void\ layoutChildren()
+comment4.params=height
+comment4.target=double\ computePrefWidth(double)
+comment5.params=width
+comment5.target=double\ computePrefHeight(double)
+comment6.params=file
+comment6.target=void\ save(java.io.File)
+comment7.params=
+comment7.target=java.lang.String\ workspaceToDom()
+comment8.params=file
+comment8.target=void\ domToWorkspace(java.io.File)
+comment9.params=dom
+comment9.target=void\ domToWorkspace(java.lang.String)
+numComments=10

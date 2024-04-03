@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FileUtils
+comment1.params=file
+comment1.target=java.lang.String\ loadAllString(java.io.File)
+comment2.params=file\ str
+comment2.target=void\ save(java.io.File,\ java.lang.String)
+numComments=3

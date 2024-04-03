@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=JavaHandler
+comment1.params=
+comment1.target=JavaHandler\ Instance()
+comment2.params=currentClass\ withCompile
+comment2.target=void\ testWorkflow(bluej.extensions2.BClass,\ boolean)
+comment3.params=clazz
+comment3.target=bluej.extensions2.editor.JavaEditor\ getEditorFromClass(bluej.extensions2.BClass)
+comment4.params=path
+comment4.target=java.lang.String\ getCodeFromFile(java.lang.String)
+comment5.params=code\ editor
+comment5.target=void\ replaceCodeInEditor(java.lang.String,\ bluej.extensions2.editor.JavaEditor)
+comment6.params=editor
+comment6.target=void\ runCompilation(bluej.extensions2.editor.JavaEditor)
+numComments=7

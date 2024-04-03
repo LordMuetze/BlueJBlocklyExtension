@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MenuBuilder
+comment1.params=b
+comment1.target=void\ setBJ(bluej.extensions2.BlueJ)
+comment2.params=aClass
+comment2.target=javafx.scene.control.MenuItem\ getClassMenuItem(bluej.extensions2.BClass)
+comment3.params=
+comment3.target=javafx.event.EventHandler\ openBlocklyEvent()
+comment4.params=bc\ mi
+comment4.target=void\ notifyPostClassMenu(bluej.extensions2.BClass,\ javafx.scene.control.MenuItem)
+comment5.params=
+comment5.target=javafx.event.EventHandler\ menuPopupAction()
+comment6.params=
+comment6.target=void\ closeAllWindowsExceptMain()
+numComments=7
